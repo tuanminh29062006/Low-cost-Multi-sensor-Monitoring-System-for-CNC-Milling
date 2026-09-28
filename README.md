@@ -1,6 +1,6 @@
 # Low-Cost Multi-Sensor Monitoring System for CNC Milling
 
-[![Field](https://img.shields.io/badge/Domain-Smart%20Manufacturing%20%26%20IoT-green.svg)](#)
+[![Field](https://img.shields.io/badge/Domain-Smart%20Manufacturing%20%26%20IoT-yellow.svg)](#)
 [![Affiliation](https://img.shields.io/badge/Institution-HCMUT--VNUHCM-blue.svg)](#)
 
 A modular, real-time Tool Condition Monitoring (TCM) framework for CNC milling operations utilizing multi-sensor data fusion, edge acquisition, and IoT telemetry.
